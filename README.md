@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amos Richard
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me Goal
 
 <!---
