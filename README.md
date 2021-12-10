@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate with other developers
-- 📫 How to reach me Goal
+- 📫 How to reach me richardamos891@gmail.com
 
 <!---
 Amosrichard/Amosrichard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
