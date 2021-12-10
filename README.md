@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amos Richard
+- 👋 Hi, I’m Amos Richard Moses
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate with other developers
